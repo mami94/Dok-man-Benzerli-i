@@ -1,1 +1,1 @@
-# Dok-man-Benzerli-i
+# Word Dosya Benzerlik Kontrolü
